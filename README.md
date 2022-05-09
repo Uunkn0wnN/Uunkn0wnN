@@ -10,7 +10,7 @@
 ![Snake animation](https://github.com/Uunkn0wnN/Uunkn0wnN/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-[![blog](https://img.shields.io/badge/Uunkn0wnN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+[![blog](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://api.whatsapp.com/send?phone=628983755600&text=Hola!%halo%20hai%20😸%20saya%20dari%20GitHub) 
   
 <a href="https://instagram.com/22.1447" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
