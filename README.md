@@ -1,7 +1,7 @@
 ## Hallo ✨ selamat datang di akun saya 〽️
 ### ***Saya harap Anda baik-baik saja 🌸***
 
-<p align="center"><img title="Uunkn0wnN" src="https://78.media.tumblr.com/10275a23919ec5643d8cec044cb76df4/tumblr_p3izpzoiyu1vkfsowo1_400.gif"></p>
+<p align="center"><img title="Uunkn0wnN" src="https://media.giphy.com/media/lKpZ5OGoWkI5BkgTWv/giphy.gif"></p>
 
 <div align="center">
   <a href="https://github.com/Uunkn0wnN">
