@@ -1,5 +1,5 @@
-## Hallo ✨ selamat datang di akun saya 〽️
-### ***Saya harap Anda baik-baik saja 🌸***
+## Hallo ✨ welcome 〽️
+### *** https://shiroweb-dashboard.221447.repl.co 🌸***
 
 <p align="center"><img title="Uunkn0wnN" src="https://media.giphy.com/media/lKpZ5OGoWkI5BkgTWv/giphy.gif"></p>
 
@@ -15,5 +15,7 @@
   
 <a href="https://instagram.com/22.1447" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+  <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=online&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fshiroweb-dashboard.221447.repl.co">
+  
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtube.com/channel/UC_w0uOuASLUMS5l3XLoB6Wg)
