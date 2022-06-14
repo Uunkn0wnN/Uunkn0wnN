@@ -23,3 +23,4 @@
 
 [![blog](https://img.shields.io/twitter/url?label=22_1447&style=social&url=https%3A%2F%2Ftwitter.com%2F22_1447%3Ft%3DWKw6-0TkaGP8QbODUWVgpg%26s%3D08)](https://twitter.com/22_1447?t=WKw6-0TkaGP8QbODUWVgpg&s=08)
 
+![weabsite](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
