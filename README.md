@@ -15,10 +15,11 @@
   
 <a href="https://instagram.com/22.1447" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-[![blog](https://img.shields.io/badge/discord-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://discord.gg/UFTXkxRrWT)
+[![blog](https://img.shields.io/badge/discord-696362?style=for-the-badge&logo=youtube&logoColor=white)](https://discord.gg/UFTXkxRrWT)
 
   
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtube.com/channel/UC_w0uOuASLUMS5l3XLoB6Wg)
+
 [![blog](https://img.shields.io/twitter/url?label=22_1447&style=social&url=https%3A%2F%2Ftwitter.com%2F22_1447%3Ft%3DWKw6-0TkaGP8QbODUWVgpg%26s%3D08)](https://twitter.com/22_1447?t=WKw6-0TkaGP8QbODUWVgpg&s=08)
 
