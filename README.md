@@ -1,7 +1,7 @@
 ## Hallo ✨ welcome 〽️
 ### ***https://shiroweb-dashboard.221447.repl.co🌸***
 
-<p align="center"><img title="Uunkn0wnN" src="https://media.giphy.com/media/lKpZ5OGoWkI5BkgTWv/giphy.gif"></p>
+<p align="center"><img title="Uunkn0wnN" src="https://media.discordapp.net/attachments/882578670986874910/1000437693462872104/standard.gif"></p>
 
 <div align="center">
   <a href="https://github.com/Uunkn0wnN">
