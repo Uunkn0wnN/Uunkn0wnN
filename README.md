@@ -25,3 +25,4 @@
 
 [![weabsite](https://img.shields.io/badge/weabsite-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://shiroweb-dashboard.221447.repl.co)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820532177853743105)](https://discord.gg/UFTXkxRrWT)
