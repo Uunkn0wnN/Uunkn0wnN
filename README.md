@@ -1,4 +1,4 @@
-## Hallo ✨ 
+## Hallo everyone✨ 
 ### ***https://shiroweb-dashboard.221447.repl.co🌸***
 
 <p align="center"><img title="Uunkn0wnN" src="https://media.discordapp.net/attachments/882578670986874910/1000437693462872104/standard.gif"></p>
@@ -17,7 +17,7 @@
 <a href="https://discord.gg/UFTXkxRrWT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UFTXkxRrWT" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC_w0uOuASLUMS5l3XLoB6Wg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/UC_w0uOuASLUMS5l3XLoB6Wg" height="30" width="40" /></a>
 <a href="https://twitter.com/22_1447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="22_1447" height="30" width="40" /></a>
-<a href="https://shiroweb-dashboard.221447.repl.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/gcp.svg" alt="shiroweb" height="30" width="40" /></a>
+<a href="https://shiroweb-dashboard.221447.repl.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="shiroweb" height="30" width="40" /></a>
 
 ## stats
 
