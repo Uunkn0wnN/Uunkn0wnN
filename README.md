@@ -19,5 +19,6 @@
 <a href="https://twitter.com/22_1447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="22_1447" height="30" width="40" /></a>
 <a href="https://shiroweb-dashboard.221447.repl.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/gcp.svg" alt="shiroweb" height="30" width="40" /></a>
 
-<h3 align="left">stats</h3>
+## stats
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820532177853743105)](https://discord.gg/UFTXkxRrWT)
