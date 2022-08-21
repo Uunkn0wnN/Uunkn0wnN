@@ -12,11 +12,12 @@
 
   <h3 align="left">support</h3>
 <p align="left">
-<a href="https://api.whatsapp.com/send?phone=+628983755600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="628983755600" height="30" width="40" /></a>
+<a href="https://wa.me/628983755600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="628983755600" height="30" width="40" /></a>
 <a href="https://instagram.com/22.1447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22.1447" height="30" width="40" /></a>
 <a href="https://discord.gg/UFTXkxRrWT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UFTXkxRrWT" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC_w0uOuASLUMS5l3XLoB6Wg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/UC_w0uOuASLUMS5l3XLoB6Wg" height="30" width="40" /></a>
 <a href="https://twitter.com/22_1447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="22_1447" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100036849801760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="スナイル" height="30" width="40" /></a>
 <a href="https://shiroweb-dashboard.221447.repl.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="shiroweb" height="30" width="40" /></a>
 
 ## stats
