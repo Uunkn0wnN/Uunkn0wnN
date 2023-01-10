@@ -1,5 +1,4 @@
 ## Hello everyone✨ 
-### ***https://uunkn0wnn.github.io/22.1447-/🌸***
 
 <p align="center"><img title="Uunkn0wnN" src="https://media.discordapp.net/attachments/882578670986874910/1000437693462872104/standard.gif"></p>
 
