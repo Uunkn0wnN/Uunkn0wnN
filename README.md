@@ -1,5 +1,7 @@
 ## Hello everyone✨ 
-
+<img
+            src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=Created+By+スマイル+〽️"
+        />
 <p align="center"><img title="Uunkn0wnN" src="https://media.discordapp.net/attachments/882578670986874910/1000437693462872104/standard.gif"></p>
 
 <div align="center">
