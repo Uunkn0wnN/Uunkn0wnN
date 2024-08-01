@@ -1,17 +1,6 @@
 <div align="center">
-  <img id="random-media" height="150" src="" />
+  <img height="150" src="https://raw.githubusercontent.com/Uunkn0wnN/databases/main/standard${Math.floor(Math.random() * 2)}.gif"  />
 </div>
-
-<script>
-  const mediaList = [
-    "https://raw.githubusercontent.com/Uunkn0wnN/databases/main/standard.gif",
-    "https://raw.githubusercontent.com/Uunkn0wnN/databases/main/standard%20(1).gif"
-    // tambahkan lebih banyak media di sini
-  ];
-
-  const randomMedia = mediaList[Math.floor(Math.random() * mediaList.length)];
-  document.getElementById("random-media").src = randomMedia;
-</script>
 
 ###
 
