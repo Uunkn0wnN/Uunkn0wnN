@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Uunkn0wnN/databases/main/standard${Math.floor(Math.random() * 2)}.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/Uunkn0wnN/databases/main/standard1.gif"  />
 </div>
 
 ###
